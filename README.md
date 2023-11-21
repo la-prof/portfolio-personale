@@ -2,7 +2,7 @@
 ## Raccolta di letture su alcune discipline scolastiche
 Reading Portfolio
 
-
+![Libri](books.png)
 
 
 1. [Informatica](informatica.md)
